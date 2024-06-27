@@ -8,9 +8,17 @@ name = 'nombre'
 
 
 print(name)
+
 print(type(name))
 
 print(name.replace("o","a"))
+
+long = 234,4
+
+print(type(long))
+print(dir(long))
+print(long_)
+
 
 
 
